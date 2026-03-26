@@ -1,4 +1,4 @@
-#social Network Analysis Project
+Social Network Analysis Project
 Dataset
 
 This project uses a Facebook social network dataset (artist network).
