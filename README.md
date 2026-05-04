@@ -10,9 +10,6 @@ Methods
 Network construction
 Degree distribution
 Centrality analysis (degree, betweenness, eigenvector, PageRank)
-Graph comparison (ER, BA, WS)
-Linear Threshold model
-Greedy algorithm for influence maximization
 How to Run
 
 Open notebooks in Google Colab and run all cells.
