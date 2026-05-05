@@ -1,18 +1,24 @@
 Social Network Analysis Project
-Dataset
+Project Overview
 
-This project uses a Facebook social network dataset (artist network).
+A comprehensive analysis of social network structures to identify influential nodes and understand connectivity patterns.
 
-Project Structure
-data/: dataset files
-notebooks/: analysis notebooks
-Methods
-Network construction
-Degree distribution
-Centrality analysis (degree, betweenness, eigenvector, PageRank)
-How to Run
+Key Features
 
-Open notebooks in Google Colab and run all cells.
+Network Metrics: Implementation of Degree Centrality, Betweenness Centrality, and PageRank to detect key influencers.
+
+Dataset: Analysis performed on Facebook-based network data.
+
+Connectivity Analysis: Evaluating the robustness and interconnectedness of the graph structure.
+
+Tech Stack
+
+Network Analysis: NetworkX.
+
+Visualization: Matplotlib for degree distribution and graph plotting.
+
+Data Handling: Python
+Libraries: Scikit-learn, Pandas, NumPy, Matplotlib
 
 Dataset Source
 
